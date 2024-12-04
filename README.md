@@ -1,4 +1,4 @@
-I am a dedicated IT professional with over 3+ years of testing experience and an Advanced Diploma in Computer Programming and Analysis from Niagara College. 
+I am an IT professional with over 3+ years of testing experience and an Advanced Diploma in Computer Programming and Analysis from Niagara College. 
 My knack lies in quality assurance. Skilled in programming languages, I leverage programming knowledge to bridge gaps between testing and development, working closely with cross-functional Agile teams.
 My recent education has expanded my skills into software development, database management, and network security. 
 Hands-on projects in client-server solutions, mobile and Windows apps, and big data security at Niagara College have strengthened my technical foundation. 
